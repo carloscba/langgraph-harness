@@ -1,0 +1,3 @@
+[submodule "charlIA"]
+	path = charlIA
+	url = git@github.com:carloscba/charlIA.git
